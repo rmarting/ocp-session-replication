@@ -3,7 +3,7 @@
 
 <html>
 <head>
-<title>Testing OpenShift Session Replication (Version 1.1)</title>
+<title>Testing OpenShift Session Replication (Version 1.2)</title>
 
 <link rel="stylesheet" type="text/css" href="css/styles.css">
 
